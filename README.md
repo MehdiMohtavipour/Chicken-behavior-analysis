@@ -7,13 +7,19 @@ The goal of this competition was to propose a machine-learning framework for chi
 Team Name: DeepSense
 Team Members: Mehdi Mohtavipour, Tahereh Zarrat Ehsan
 ## Chicken Detection 
-![Detect8_BB_177](https://github.com/MehdiMohtavipour/Chicken-behavior-analysis/assets/152822867/29794132-9ff4-4846-9fb6-505d52aa5895)
+<img src="https://github.com/MehdiMohtavipour/Chicken-behavior-analysis/assets/152822867/d9f270e2-97fd-47fb-bbdc-76ba683e1d2e" width="450" height="450"> 
+
 ## Chicken Tracking
-![Tracking_Result_1](https://github.com/MehdiMohtavipour/Chicken-behavior-analysis/assets/152822867/cc2f9d75-7e13-4465-a9c1-81daa805e1ed)
-## Chicken Activity Measurement (in terms of Pixel) 
+![Tracking_Result_1](https://github.com/MehdiMohtavipour/Chicken-behavior-analysis/assets/152822867/cb697e44-845e-4d06-ae04-c249e4d5e5aa)
+
+## Chicken Activity Measurement (in terms of Pixel)
+![Tracker_Distance_Mehasure_3](https://github.com/MehdiMohtavipour/Chicken-behavior-analysis/assets/152822867/a3a9ea6c-2225-4808-abc4-0cf5a237d9c8)
+
 ## Chicken Grouping Anomaly (Low-Temperature Paultry)
-![Dense_6_2](https://github.com/MehdiMohtavipour/Chicken-behavior-analysis/assets/152822867/251f6764-1bfc-4cc5-9bc4-d47cc1ff77e9)
+<img src="https://github.com/MehdiMohtavipour/Chicken-behavior-analysis/assets/152822867/31fb50aa-20e5-44ae-b654-fcab9fb3ef1f" width="450" height="450">
+
 ## Inactive Chicken Detection
-![Sick_2](https://github.com/MehdiMohtavipour/Chicken-behavior-analysis/assets/152822867/4936345e-7ea6-465b-825a-6602d0846928)
+<img src="https://github.com/MehdiMohtavipour/Chicken-behavior-analysis/assets/152822867/badc1016-8a37-4870-9eae-88bcb9f358cd" width="450" height="450">
+
 ## Certificate
-![Seyed Mehdi Mohtavipour Shafti_page-0001](https://github.com/MehdiMohtavipour/Chicken-behavior-analysis/assets/152822867/511c4512-6e16-440e-9d70-0a7cd38d32b3)
+<img src="https://github.com/MehdiMohtavipour/Chicken-behavior-analysis/assets/152822867/c9251d1d-6b98-4e75-96a1-50993af03e54" width="600" height="900">
