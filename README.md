@@ -30,6 +30,7 @@ In the 'Broiler_Tracking.ipynb' file, the saved model is used to track chickens 
 
 ## Certificate
 <img src="https://github.com/MehdiMohtavipour/Chicken-behavior-analysis/assets/152822867/c9251d1d-6b98-4e75-96a1-50993af03e54" width="600" height="900">
+
 ## 📜 License
 
 This project is licensed under the Apache 2.0 License.
